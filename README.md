@@ -1,6 +1,6 @@
 # Hi!
 
-My name's Zander, and I'm a hobbyist programmer. I have a passion for writing code.
+My name's Zander, and I'm a programmer. I have a passion for writing code.
 
 ### Stuff I've made
 
