@@ -5,6 +5,7 @@ My name's Zander, and I'm a programmer. I have a passion for writing code.
 ### Stuff I've made
 
 * [Engauge](https://engau.ge/), a Discord leveling bot
+* [Four of Clubs](https://4of.club/), customizable online Texas hold 'em and Blackjack
 * [raytracer](https://github.com/voximity/raytracer), a raytracer + scene description language written in Rust
 * [blend2d-cr](https://github.com/voximity/blend2d-cr), a Crystal binding to [Blend2D](https://blend2d.com/)
 * [pars3k](https://github.com/voximity/pars3k), a parser combinator library for Crystal
