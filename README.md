@@ -12,5 +12,3 @@ My name's Zander. I like finding handy ways to solve random problems.
 * [BrickadiaAutoPainter](https://github.com/brickadia-community/BrickadiaAutoPainter), a painting robot for [Brickadia](https://brickadia.com/)
 * [brickadia-rs](https://github.com/brickadia-community/brickadia-rs), a Rust library for reading/writing BRS files
 * [Lots](https://github.com/voximity/omegga-teleports) [and](https://github.com/voximity/omegga-behind-you) [lots](https://github.com/voximity/omegga-behind-you) [of](https://github.com/voximity/omegga-hints) [plugins](https://github.com/voximity/omegga-mail) (even another [raytracer](https://github.com/voximity/omegga-raytracer-cr)) for [Omegga](https://github.com/brickadia-community/omegga), a server wrapper for Brickadia
-
-I've also got a [Discord server](https://discord.gg/NavWk8S2hx) to discuss my projects.
