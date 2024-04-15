@@ -5,7 +5,7 @@ My name's Zander. I like finding handy ways to solve random problems.
 ### Stuff I've made
 
 * [Engauge](https://engau.ge/), a Discord leveling bot
-* [Four of Clubs](https://4of.club/), customizable online Texas hold 'em and Blackjack
+* [Four of Clubs](https://fourof.club/), customizable online Texas hold 'em and Blackjack
 * [raytracer](https://github.com/voximity/raytracer), a raytracer + scene description language interpreter written in Rust
 * [mipsim](https://github.com/voximity/mipsim), a MIPS assembly editor and simulator
 * [pars3k](https://github.com/voximity/pars3k), a parser combinator library for Crystal
